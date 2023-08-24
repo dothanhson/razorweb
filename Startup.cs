@@ -58,3 +58,8 @@ namespace razorweb
         }
     }
 }
+
+/*
+    CREATE, READ, UPDATE, DELETE (CRUD)
+    dotnet aspnet-codegenerator razorpage -m razorweb.Models.Article -dc razorweb.Models.MyBlogContext -outDir Pages/Blog -udl --referenceScriptLibraries
+*/
