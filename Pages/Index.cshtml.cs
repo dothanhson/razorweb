@@ -9,6 +9,7 @@ using razorweb.Models;
 
 namespace razorweb.Pages
 {
+    
     public class IndexModel : PageModel
     {
         private readonly ILogger<IndexModel> _logger;
